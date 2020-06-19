@@ -1,0 +1,63 @@
+﻿body{
+	background-image:url('wp5134857.png');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	margin:0;
+}
+.sidenav{
+	height:100%;
+	width:150px;
+	position:fixed;
+	background-color:#CF76A9;
+	overflow-x:hidden;
+	padding-top:30px;
+}
+.sidenav a{
+	padding:16px 8px 18px;
+	font-size:25px;
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+.sidenav a:hover{
+	color:#4E69AD;
+}
+h1{
+	font-size:45px;
+	padding-top:100px;
+	padding-left:45%;
+	font-family:lato;
+	color:white;
+}
+h2{
+	padding:50px;
+	padding-left:45%;
+	font-size:30px;
+	font-family:lato;
+	color:white;
+}
+.footer{
+	padding-left:8px;
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	color:white;
+	text-align:left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

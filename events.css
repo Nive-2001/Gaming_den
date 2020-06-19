@@ -1,0 +1,65 @@
+﻿body{
+	background-image:url('wp3491323.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.navbar{
+    font-family:lato;
+	width:100%;
+	background-color:;
+	overflow:auto;
+	
+}
+.navbar a{
+	font-family:lato;
+	float:left;
+	padding:12px;
+	color:white;
+	text-decoration:none;
+	font-size:27px;
+	width:31%;
+	text-align:center;
+}
+.navbar a:hover{
+	background-color:#BE8E6A;
+}
+h1{
+	color:white;
+	font-size:50px;
+	padding-top:5%;
+	padding-left:40%;
+	font-family:lato;
+}
+h2{
+	color:white;
+	font-family:lato;
+	font-size:30px;
+	padding-left:45%;
+}
+h3{
+	color:white;
+	font-family:lato;
+	font-size:20px;
+	padding-left:47%;
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:#4B5528;
+	color:white;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
